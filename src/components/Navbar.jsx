@@ -4,7 +4,7 @@ const Navbar = () => {
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
-            MyKitchen
+            <i>Bread & Beyond</i>
           </a>
           <button
             className="navbar-toggler"
