@@ -1,0 +1,7 @@
+.newsletter {
+  background-image: url("/public/images/newsletter.jpg");
+  object-fit: cover;
+}
+.input {
+  width: 60%;
+}

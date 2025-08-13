@@ -5,7 +5,7 @@ const Card = () => {
   return (
     <div className="container">
       <div className="row">
-        <h1 className="mb-5">Latest Recipes</h1>
+        <h2 className="mb-5">Latest Recipes</h2>
         {Cards.map(({ image, title, description }, index) => (
           <div className="col-md-3" key={index}>
             <div className="card mb-5" style={{ width: "100%" }}>

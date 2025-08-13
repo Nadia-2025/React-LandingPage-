@@ -3,6 +3,7 @@ import Card from "./Card";
 import Navbar from "./Navbar";
 import Jumbotron from "./Jumbotron";
 import Footer from "./Footer";
+import Newsletter from "./Newsletter";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Navbar></Navbar>
       <Jumbotron></Jumbotron>
       <Card></Card>
+      <Newsletter></Newsletter>
       <Footer></Footer>
     </div>
   );
