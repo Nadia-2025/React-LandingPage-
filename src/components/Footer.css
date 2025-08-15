@@ -1,3 +1,6 @@
 .media-section i {
   cursor: pointer;
 }
+.list li a {
+  color: black;
+}

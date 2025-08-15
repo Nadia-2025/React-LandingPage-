@@ -13,7 +13,7 @@ const Footer = () => {
             </div>
             <div className="col-3 fs-6 text-start">
               <h4>Navigate</h4>
-              <ul className="list-unstyled">
+              <ul className="list-unstyled list">
                 <li>
                   <a className="text-decoration-none" href="#">
                     Home
@@ -44,7 +44,7 @@ const Footer = () => {
 
             <div className="col-3 fs-6 text-start">
               <h4>Information</h4>
-              <ul className="list-unstyled">
+              <ul className="list-unstyled list">
                 <li>
                   <a className="text-decoration-none" href="#">
                     Contact
